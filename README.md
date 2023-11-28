@@ -1,0 +1,2 @@
+# React Native Educational App
+ Embark on an educational revolution with our cutting-edge React Native Education App! Harnessing the power of Expo, Firebase, Strapi, and MySQL, this project is your gateway to crafting a dynamic learning platform. Seamlessly integrate diverse content, foster interactive learning experiences, and revolutionize education in the digital age. Join us in shaping the future of learning!
