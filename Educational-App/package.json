@@ -1,5 +1,5 @@
 {
-  "name": "educational",
+  "name": "educational-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -15,7 +15,10 @@
     "react-native": "0.72.6",
     "react-native-web": "~0.19.6",
     "react-dom": "18.2.0",
-    "@expo/webpack-config": "^19.0.0"
+    "@expo/webpack-config": "^19.0.0",
+    "expo-auth-session": "~5.0.2",
+    "expo-crypto": "~12.4.1",
+    "expo-web-browser": "~12.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
